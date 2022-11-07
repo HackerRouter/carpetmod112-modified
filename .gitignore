@@ -21,7 +21,6 @@
 # Stuff we're not allowed to upload
 /projects/
 /repo/
-/src/
 /src_/
 /src__/
 /test/
