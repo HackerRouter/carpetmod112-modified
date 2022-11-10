@@ -25,4 +25,8 @@ Disable this to make the game check the dragon fight status more than once. You 
 
 WARNING! the debug logs might spam massivly into your console!
 
+`dispenserCrashFix` (Haven't released this): 
+
+Fixes the problem that when you try to place a shulker box above/below the build height limit, the server will crash.
+
 ### **Type `/carpet <settings>` to see more info!**
