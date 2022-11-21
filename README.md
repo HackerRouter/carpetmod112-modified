@@ -10,7 +10,7 @@ More debug logs about dragon fight.
 ### More `<settings>`
 
 `dispenserCrashFix`: 
-literal meaning. [Not realeased]
+literal meaning. [Not released]
 
 `dragonCrashingFix`: 
 
