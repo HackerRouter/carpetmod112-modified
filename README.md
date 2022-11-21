@@ -9,7 +9,8 @@ More debug logs about dragon fight.
 
 ### More `<settings>`
 
-`dispenserCrashFix`: 
+`creativePlayersLoadChunk`: 
+
 literal meaning. [Not released]
 
 `dragonCrashingFix`: 
