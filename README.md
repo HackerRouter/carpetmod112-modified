@@ -9,6 +9,9 @@ More debug logs about dragon fight.
 
 ### More `<settings>`
 
+`dispenserCrashFix`: 
+literal meaning. [Not realeased]
+
 `dragonCrashingFix`: 
 
 Fixed the path find and the dragon breath. The server won't crash anymore and you can freeze the dragon freely if you enable this!(you don't have to worry about placing wrong nodes)
