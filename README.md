@@ -9,7 +9,7 @@ More debug logs about dragon fight.
 
 ### More `<settings>`
 
-`creativePlayersLoadChunk`: 
+`creativePlayersLoadChunks`: 
 
 literal meaning. [Not released]
 
@@ -34,3 +34,10 @@ WARNING! the debug logs might spam massivly into your console!
 Fixes the problem that when you try to place a shulker box above/below the build height limit, the server will crash.
 
 ### **Type `/carpet <settings>` to see more info!**
+
+## To-do list
+
+`shulkersPostGeneration`
+`survivalPlayersLoadChunks`
+`netherPortalLoadChunks`
+`pearlLoadChunks`
