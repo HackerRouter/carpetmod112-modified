@@ -37,6 +37,8 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 ## To-do list
 
+**Settings:**
+
 `shulkersPostGeneration`: Why didn't they add it in 1.15.2? I mean, I only know about 1.12.2, 1.15.2 and 1.19.2
 
 `survivalPlayersLoadChunks`: Uh, why?
@@ -47,4 +49,8 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 `moreDragonFightLogs`: Now your console is clean now.
 
-command: `/nbtset <path> <value>`: its tough work.
+**Commands: **
+
+`/nbtset <path> <value>`: its tough work.
+
+`/data <get, merge, modify, remove> ...`: WE NEED IT!
