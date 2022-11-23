@@ -46,3 +46,5 @@ Fixes the problem that when you try to place a shulker box above/below the build
 `pearlLoadChunks`: Nah I'm not a pearl cannon guy.
 
 `moreDragonFightLogs`: Now your console is clean now.
+
+command: `/nbtset <path> <value>`: its tough work.
