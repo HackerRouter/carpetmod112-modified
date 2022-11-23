@@ -44,3 +44,5 @@ Fixes the problem that when you try to place a shulker box above/below the build
 `netherPortalLoadChunks`: I did try to build portal chunk loaders in 1.12.2, and I was wondering why it didn't work.
 
 `pearlLoadChunks`: Nah I'm not a pearl cannon guy.
+
+`moreDragonFightLogs`: Now your console is clean now.
