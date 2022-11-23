@@ -37,7 +37,10 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 ## To-do list
 
-`shulkersPostGeneration`
-`survivalPlayersLoadChunks`
-`netherPortalLoadChunks`
-`pearlLoadChunks`
+`shulkersPostGeneration`: Why didn't they add it in 1.15.2? I mean, I only know about 1.12.2, 1.15.2 and 1.19.2
+
+`survivalPlayersLoadChunks`: Uh, why?
+
+`netherPortalLoadChunks`: I did try to build portal chunk loaders in 1.12.2, and I was wondering why it didn't work.
+
+`pearlLoadChunks`: Nah I'm not a pearl cannon guy.
