@@ -35,6 +35,8 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 ### **Type `/carpet <settings>` to see more info!**
 
+------
+
 ## To-do list
 
 **Settings:**
@@ -49,7 +51,8 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 `moreDragonFightLogs`: Now your console is clean now.
 
-**Commands: **
+
+Commands: 
 
 `/nbtset <path> <value>`: its tough work.
 
