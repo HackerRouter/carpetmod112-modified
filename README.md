@@ -9,6 +9,10 @@ More debug logs about dragon fight.
 
 ### More `<settings>`
 
+`shulkersPostGeneration`:
+
+A feature that Mojang added in a higher version. [Not released]
+
 `creativePlayersLoadChunks`: 
 
 literal meaning. [Not released]
@@ -41,8 +45,6 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 **Settings:**
 
-`shulkersPostGeneration`: Why didn't they add it in 1.15.2? I mean, I only know about 1.12.2, 1.15.2 and 1.19.2
-
 `survivalPlayersLoadChunks`: Uh, why?
 
 `netherPortalLoadChunks`: I did try to build portal chunk loaders in 1.12.2, and I was wondering why it didn't work.
@@ -50,6 +52,8 @@ Fixes the problem that when you try to place a shulker box above/below the build
 `pearlLoadChunks`: Nah I'm not a pearl cannon guy.
 
 `moreDragonFightLogs`: Now your console is clean now.
+
+`allowTPtoDifferentDimensions`: uh-uh
 
 
 Commands: 
