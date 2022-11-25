@@ -3,19 +3,25 @@ Yes.
 
 I hadn't pushed cuz my network has some errors.
 
+I promise I'll update the descriptions of every setting when I release a release version.
+
 ## New Features
 
-More debug logs about dragon fight.
+More debug logs about the dragon fight.
 
 ### More `<settings>`
 
+`moreDragonFightLogs`: 
+
+Now your console is clean.
+
 `shulkersPostGeneration`:
 
-A feature that Mojang added in a higher version. [Not released]
+A feature that Mojang added in a higher version.
 
 `creativePlayersLoadChunks`: 
 
-literal meaning. [Not released]
+literal meaning.
 
 `dragonCrashingFix`: 
 
@@ -45,17 +51,15 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 **Settings:**
 
-`survivalPlayersLoadChunks`: Uh, why?
+`survivalPlayersLoadChunks`: Uh-uh.
 
 `netherPortalLoadChunks`: I did try to build portal chunk loaders in 1.12.2, and I was wondering why it didn't work.
 
 `pearlLoadChunks`: Nah I'm not a pearl cannon guy.
 
-`moreDragonFightLogs`: Now your console is clean now.
 
-
-Commands: 
+**Commands: **
 
 `/nbtset <path> <value>`: its tough work.
 
-`/data <get, merge, modify, remove> ...`: WE NEED IT!
+`/data <get, merge, modify, remove> ...`: WE NEED IT...Uh, yes, we need it.
