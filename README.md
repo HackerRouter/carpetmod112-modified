@@ -53,8 +53,6 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 `moreDragonFightLogs`: Now your console is clean now.
 
-`allowTPtoDifferentDimensions`: uh-uh
-
 
 Commands: 
 
