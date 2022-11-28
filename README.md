@@ -1,7 +1,7 @@
 # Carpet Mod 1.12.2-modified
 Yes.
 
-I hadn't pushed cuz my network has some errors.
+I hadn't pushed cuz my network has some errors.(and i need to learn how this thing works)
 
 I promise I'll update the descriptions of every setting when I release a release version.
 
@@ -11,7 +11,7 @@ ps: i just dunno what to add lol
 
 i think carpetmod112 has already had all the funtions except `creativePlayersLoadChunks`. and i dunno wat to add next
 
-c'mon, this is def not carpet-fixes112, i rly wanna add some useful stuff instead of fixing bugs for mojank. unless i can get bedrocks in vanilla 1.19.3 survival
+c'mon, this is def not carpet-fixes112, i rly wanna add some useful stuff instead of fixing bugs for mojank(im not talkin'bout bugs that crashes the server). unless i can get bedrocks in vanilla 1.19.3 survival
 
 ------
 
