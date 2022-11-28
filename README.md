@@ -11,7 +11,7 @@ ps: i just dunno what to add lol
 
 i think carpetmod112 has already had all the funtions except `creativePlayersLoadChunks`. and i dunno wat to add next
 
-c'mon, this is def not carpet-fixes112, i rly wanna add some useful stuff instead of fixing bugs for mojank.
+c'mon, this is def not carpet-fixes112, i rly wanna add some useful stuff instead of fixing bugs for mojank. unless i can get bedrocks in vanilla 1.19.3 survival
 
 ------
 
