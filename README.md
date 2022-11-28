@@ -5,16 +5,6 @@ I hadn't pushed cuz my network has some errors.(and i need to learn how this thi
 
 I promise I'll update the descriptions of every setting when I release a release version.
 
-i wish i could write down 'literal meaning' in every description.
-
-------
-
-ps: i just dunno what to add lol
-
-i think carpetmod112 has already had all the funtions except `creativePlayersLoadChunks`. and i dunno wat to add next
-
-c'mon, this is def not carpet-fixes112, i rly wanna add some useful stuff instead of fixing bugs for mojank(im not talkin'bout bugs that crashes the server). unless i can get bedrocks in vanilla 1.19.3 survival
-
 ------
 
 ## New Features
@@ -75,3 +65,13 @@ Fixes the problem that when you try to place a shulker box above/below the build
 `/nbtset <path> <value>`: its tough work.
 
 `/data <get, merge, modify, remove> ...`: WE NEED IT...Uh, yes, we need it.
+
+------
+
+##Future ideas
+
+Add some cool stuff from [Carpet-TIS-Addition](https://github.com/TISUnion/Carpet-TIS-Addition)
+
+*I will follow the license, don't worry.*
+
+It's pathetic that nobody wanna add the features they added in a higher version to an old version though they always say 'oh wow we love 1.12.2'. 1.15.2 is somehow abandoned, too.
