@@ -1,5 +1,5 @@
-# Carpet Mod 1.12.2-modified
-Yes.
+# Carpet Mod 1.12.2-Modified
+Yes. It is called 'Carpet Mod 1.12.2 Modified'.
 
 I hadn't pushed cuz my network has some errors.(and i need to learn how this thing works)
 
