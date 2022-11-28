@@ -5,6 +5,8 @@ I hadn't pushed cuz my network has some errors.(and i need to learn how this thi
 
 I promise I'll update the descriptions of every setting when I release a release version.
 
+i wish i could write down 'literal meaning' in every description.
+
 ------
 
 ps: i just dunno what to add lol
