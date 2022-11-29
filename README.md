@@ -5,7 +5,7 @@ I hadn't pushed cuz my network has some errors.(and i need to learn how this thi
 
 I promise I'll update the descriptions of every setting when I release a release version.
 
-I'm not gonna add too many in-vanilla stuff, go play your 1.16, 1.17 and 1.18, u have datapacks, right? go on, use them to add what u wanna add
+I'm not gonna add too many un-vanilla stuff. Go play your 1.16, 1.17 and 1.18, u have datapacks, right? Go ahead, use them to add what u want!
 
 ------
 
