@@ -57,6 +57,8 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 **Settings:**
 
+`endChunksAutoload`: inspired by an issue i created to fabric carpet. it can be also called 'dragonFightLoadChunks'
+
 `survivalPlayersLoadChunks`: Uh-uh.
 
 `netherPortalLoadChunks`: I did try to build portal chunk loaders in 1.12.2, and I was wondering why it didn't work.
@@ -69,6 +71,14 @@ Fixes the problem that when you try to place a shulker box above/below the build
 `/nbtset <path> <value>`: its tough work.
 
 `/data <get, merge, modify, remove> ...`: WE NEED IT...Uh, yes, we need it.
+
+**Miscs: **
+
+1. Fix `watchdogFix`.
+
+2. More functions for player shadowing.
+
+~~3. sth 'bout uncaught exceptions. (got the idea from Threadstone Archive)~~
 
 ------
 
