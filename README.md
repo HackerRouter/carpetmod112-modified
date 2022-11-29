@@ -7,7 +7,7 @@ I promise I'll update the descriptions of every setting when I release a release
 
 I'm not gonna add too many un-vanilla stuff. Go play your 1.16, 1.17 and 1.18, u have datapacks, right? Go ahead, use them to add what u want!
 
-I'm wondering why people use modified carpet mod to add things which can be added by using datapacks.
+I'm wondering why people use modified carpet mod to add things which can be added by using datapacks. I wish this was added in 1.12.2
 
 ------
 
