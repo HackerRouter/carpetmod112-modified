@@ -57,6 +57,10 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 **Settings:**
 
+`concretePowderDoConvert`: got the idea from OSTC Lab.
+
+`updateSuppressionCrashFixAdditions`: inspired by a joke said by Fallen_Breath. `updateSuppressionCrashFix` becomes less vanilla if u enable this. u'll have the chance to turn into creative mode for 1 sec, and a chance to do word tearing without anything or manipulate the RNG.
+
 `endChunksAutoload`: inspired by an issue i created to fabric carpet. it can be also called 'dragonFightLoadChunks'
 
 `survivalPlayersLoadChunks`: Uh-uh.
