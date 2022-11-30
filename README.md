@@ -5,9 +5,7 @@ I hadn't pushed cuz my network has some errors.(and i need to learn how this thi
 
 I promise I'll update the descriptions of every setting when I release a release version.
 
-I'm not gonna add too many un-vanilla stuff. Go play your 1.16, 1.17 and 1.18, u have datapacks, right? Go ahead, use them to add what u want!
-
-I'm wondering why people use modified carpet mod to add things which can be added by using datapacks. I wish this was added in 1.12.2
+I'm not gonna add too many un-vanilla stuff. Go play your 1.16, 1.17 and 1.18, u have datapacks, right? Go ahead, use them to add what u want.
 
 ------
 
@@ -15,7 +13,13 @@ I'm wondering why people use modified carpet mod to add things which can be adde
 
 More debug logs about the dragon fight.
 
+Fixed `watchdogFix`.(Have you ever experienced the pain you debug the game for more than 1 minute and the server crashes cuz watchdog is on?)[Not Released]
+
 ### More `<settings>`
+
+`endChunksAutoload`: inspired by an issue i created to fabric carpet. it can be also called 'dragonFightLoadChunks'.[Not Released]
+
+`concretePowderDoConvert`: got the idea from OSTC Lab.[Not Released]
 
 `moreDragonFightLogs`: 
 
@@ -57,11 +61,7 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 **Settings:**
 
-`concretePowderDoConvert`: got the idea from OSTC Lab.
-
 `updateSuppressionCrashFixAdditions`: inspired by a joke said by Fallen_Breath. `updateSuppressionCrashFix` becomes less vanilla if u enable this. u'll have the chance to turn into creative mode for 1 sec, and a chance to do word tearing without anything or manipulate the RNG.
-
-`endChunksAutoload`: inspired by an issue i created to fabric carpet. it can be also called 'dragonFightLoadChunks'
 
 `survivalPlayersLoadChunks`: Uh-uh.
 
@@ -78,11 +78,9 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 **Miscs: **
 
-1. Fix `watchdogFix`.
+1. More functions for player shadowing.
 
-2. More functions for player shadowing.
-
-~~3. sth 'bout uncaught exceptions. (got the idea from Threadstone Archive)~~
+~~2. sth 'bout uncaught exceptions. (got the idea from Threadstone Archive)~~
 
 ------
 
@@ -92,4 +90,4 @@ Add some cool stuff from [Carpet-TIS-Addition](https://github.com/TISUnion/Carpe
 
 *I will follow the license, don't worry.*
 
-It's pathetic that nobody wanna add the features they added in a higher version to an old version though they always say 'oh wow we love 1.12.2'. 1.15.2 is somehow abandoned, too.
+It's pathetic that nobody wanna add the features they added in a higher version to an old version though they always say 'oh wow we love 1.12.2'.
