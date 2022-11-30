@@ -17,7 +17,7 @@ Fixed `watchdogFix`.(Have you ever experienced the pain you debug the game for m
 
 ### More `<settings>`
 
-`endChunksAutoload`: inspired by an issue i created to fabric carpet. it can be also called 'dragonFightLoadChunks'.[Not Released]
+`dragonFightAutoCheck`: inspired by an issue i created to fabric carpet.[Not Released]
 
 `concretePowderDoConvert`: got the idea from OSTC Lab.[Not Released]
 
