@@ -61,6 +61,8 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 **Settings:**
 
+`debugSimulatedOutOfMemory`: wait...what?
+
 `updateSuppressionCrashFixAdditions`: inspired by a joke said by Fallen_Breath. `updateSuppressionCrashFix` becomes less vanilla if u enable this. u'll have the chance to turn into creative mode for 1 sec, and a chance to do word tearing without anything or manipulate the RNG.
 
 `survivalPlayersLoadChunks`: Uh-uh.
