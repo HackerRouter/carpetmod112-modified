@@ -53,6 +53,8 @@ WARNING! the debug logs might spam massivly into your console!
 
 Fixes the problem that when you try to place a shulker box above/below the build height limit, the server will crash.
 
+`debugSimulatedOutOfMemory`: it won't work.[Not Released]
+
 ### **Type `/carpet <settings>` to see more info!**
 
 ------
@@ -60,8 +62,6 @@ Fixes the problem that when you try to place a shulker box above/below the build
 ## To-do list
 
 **Settings:**
-
-`debugSimulatedOutOfMemory`: wait...what?
 
 `updateSuppressionCrashFixAdditions`: inspired by a joke said by Fallen_Breath. `updateSuppressionCrashFix` becomes less vanilla if u enable this. u'll have the chance to turn into creative mode for 1 sec, and a chance to do word tearing without anything or manipulate the RNG.
 
