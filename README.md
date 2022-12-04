@@ -3,7 +3,7 @@ Yes. It is called 'Carpet Mod 1.12.2 Modified'.
 
 I hadn't pushed cuz my network has some errors.(and i need to learn how this thing works)
 
-I promise I'll update the descriptions of every setting when I release a release version.
+I promise I'll update the descriptions of every setting when I release a release version. (toooo mayn grammah meeestake arghhh)
 
 I'm not gonna add too many un-vanilla stuff. Go play your 1.16, 1.17 and 1.18, u have datapacks, right? Go ahead, use them to add what u want.
 
@@ -12,6 +12,8 @@ I'm not gonna add too many un-vanilla stuff. Go play your 1.16, 1.17 and 1.18, u
 ## New Features
 
 More debug logs about the dragon fight.
+
+2 unlisted new settings which prove that a new feature in 1.19+ won't work on 1.12.2
 
 Fixed `watchdogFix`.(Have you ever experienced the pain you debug the game for more than 1 minute and the server crashes cuz watchdog is on?)[Not Released]
 
@@ -52,8 +54,6 @@ WARNING! the debug logs might spam massivly into your console!
 `dispenserCrashFix`: 
 
 Fixes the problem that when you try to place a shulker box above/below the build height limit, the server will crash.
-
-`debugSimulatedOutOfMemory`: it won't work.[Not Released]
 
 ### **Type `/carpet <settings>` to see more info!**
 
