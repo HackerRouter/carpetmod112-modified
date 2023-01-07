@@ -63,13 +63,12 @@ Fixes the problem that when you try to place a shulker box above/below the build
 
 **Settings:**
 
-`updateSuppressionCrashFixAdditions`: inspired by a joke said by Fallen_Breath. `updateSuppressionCrashFix` becomes less vanilla if u enable this. u'll have the chance to turn into creative mode for 1 sec, and a chance to do word tearing without anything or manipulate the RNG.
 
 `survivalPlayersLoadChunks`: Uh-uh.
 
 `netherPortalLoadChunks`: I did try to build portal chunk loaders in 1.12.2, and I was wondering why it didn't work.
 
-`pearlLoadChunks`: Nah I'm not a pearl cannon guy.
+`pearlLoadChunks`: I added this in 1.15.2 carpet mod.
 
 
 **Commands: **
@@ -77,12 +76,6 @@ Fixes the problem that when you try to place a shulker box above/below the build
 `/nbtset <path> <value>`: its tough work.
 
 `/data <get, merge, modify, remove> ...`: WE NEED IT...Uh, yes, we need it.
-
-**Miscs: **
-
-1. More functions for player shadowing.
-
-~~2. sth 'bout uncaught exceptions. (got the idea from Threadstone Archive)~~
 
 ------
 
@@ -92,4 +85,3 @@ Add some cool stuff from [Carpet-TIS-Addition](https://github.com/TISUnion/Carpe
 
 *I will follow the license, don't worry.*
 
-It's pathetic that nobody wanna add the features they added in a higher version to an old version though they always say 'oh wow we love 1.12.2'.
