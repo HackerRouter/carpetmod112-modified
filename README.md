@@ -3,7 +3,7 @@ Yes. It is called 'Carpet Mod 1.12.2 Modified'.
 
 I hadn't pushed cuz my network has some errors.(and i need to learn how this thing works)
 
-I promise I'll update the descriptions of every setting when I release a release version. (toooo mayn grammah meeestake arghhh)
+I promise I'll update the descriptions of every setting when I release a release version. (toooo mayn grammah meeestake uhhh)
 
 I'm not gonna add too many un-vanilla stuff. Go play your 1.16, 1.17 and 1.18, u have datapacks, right? Go ahead, use them to add what u want.
 
