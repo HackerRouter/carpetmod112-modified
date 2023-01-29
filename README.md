@@ -13,7 +13,6 @@ I'm not gonna add too many un-vanilla stuff. Go play your 1.16, 1.17 and 1.18, u
 
 More debug logs about the dragon fight.
 
-2 unlisted new settings which prove that a new feature in 1.19+ won't work on 1.12.2
 
 Fixed `watchdogFix`.(Have you ever experienced the pain you debug the game for more than 1 minute and the server crashes cuz watchdog is on?)[Not Released]
 
